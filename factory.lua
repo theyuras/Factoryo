@@ -1,8 +1,3 @@
--- GPO (648454481)
--- Version: 2d83aa1beb11c5c6
--- date: 12/08/2025, 12:45:32
--- CrashDetection: false
-
 print("hi2")
 if not game:IsLoaded() then game.Loaded:Wait() end
 local function printf(...) return print(...) end
